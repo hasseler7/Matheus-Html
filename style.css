@@ -1,0 +1,39 @@
+html{
+      font-family: "Truculenta", sans-serif;
+      color: black;
+
+}
+
+.container {
+      position: absolute;
+      top: 2%;
+     right: 18%;
+}
+    
+    img {
+      width: 350px;
+      height: 400px;
+    }
+    
+h1{
+      font-size: 80px;
+      text-align: center;
+      font-family: "Truculenta", sans-serif;
+}
+.texto-secundario{
+      font-size: 35px;
+}
+.texto-dois{
+      font-size: 27px;
+}
+
+li{
+      font-size: 25px;
+}
+
+h3{
+      font-size: 35px;
+}
+p{
+      font-size: 35px;
+}
