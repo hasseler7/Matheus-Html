@@ -1,10 +1,44 @@
 html{
       font-family: "Truculenta", sans-serif;
 }
+
+body{
+     width: 600px;
+     
+      padding: 0 20px 20px 20px;
+     
+}
+
 h1{
       font-family: "Truculenta", sans-serif;
       text-align: center;
 }
+
+h1:hover{
+color: red;
+margin: solid green 5px;
+
+}
+
+
 a{
       font-size: 30px;
 }
+.descricao-video{
+ font-size: 30px;
+ position: absolute;
+ top: 20%; 
+ right: 30%;
+ 
+}
+
+img{
+      width: 700px;
+      display: block;
+      margin: 0 auto;
+      align-items: center;
+      position: absolute;
+      right: 50%;
+      left: 40%;
+}
+

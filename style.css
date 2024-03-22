@@ -6,20 +6,31 @@ html{
 
 .container {
       position: absolute;
-      top: 2%;
-     right: 18%;
+      top: 7%;
+     left: 28%;
 }
     
     img {
-      width: 350px;
-      height: 400px;
+      width: 150px;
+      height: 80px;
     }
     
 h1{
       font-size: 80px;
       text-align: center;
       font-family: "Truculenta", sans-serif;
+    
+
+      
+      
+
 }
+
+h1:hover{
+      color: red;
+}
+
+
 .texto-secundario{
       font-size: 35px;
 }
@@ -29,6 +40,9 @@ h1{
 
 li{
       font-size: 25px;
+      color: black;
+      width: 500px;
+      border: 1px solid black;
 }
 
 h3{
@@ -36,4 +50,8 @@ h3{
 }
 p{
       font-size: 35px;
+}
+fundo-vermelho{
+      
+background-color: red;
 }
